@@ -12,7 +12,6 @@ app.use(cors());
 
 const port = 4001;
 
-const posts = {};
 
 const commentsByPostId = {};
 
