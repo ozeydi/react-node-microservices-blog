@@ -4,7 +4,7 @@
   "description": "moderation service to handle comments status",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "zeydi",
   "license": "ISC",
